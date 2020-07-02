@@ -11,7 +11,7 @@ from torch.autograd import Variable
 import math
 import util 
 import sys
-import model
+import net
 import loss
 import test
 
